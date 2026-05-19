@@ -1,0 +1,192 @@
+BASE DE CONOCIMIENTO – PROGRAMAS ACADÉMICOS UTPL
+
+1.
+Nombre oficial: Agropecuaria
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias Exactas y Naturales
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para diseñar y gestionar proyectos sostenibles de producción agrícola y pecuaria, aplicando técnicas de manejo de cultivos, control de plagas, mejoramiento genético animal y prevención de enfermedades.
+
+2.
+Nombre oficial: Biología
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias Exactas y Naturales
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales con formación científica para comprender la diversidad biológica, analizar los cambios en los ecosistemas y aplicar conocimientos moleculares y biotecnológicos en la conservación y gestión ambiental.
+
+3.
+Nombre oficial: Ingeniería Química
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capaces de aplicar principios de ingeniería química, física y matemáticas para diseñar y optimizar procesos químicos y biotecnológicos, generando productos innovadores con uso eficiente de recursos y responsabilidad ambiental.
+
+
+4.
+Nombre oficial: Enfermería
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias de la Salud
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para brindar cuidados integrales de enfermería, promover la salud y prevenir enfermedades, aplicando conocimientos científicos, comunicación terapéutica y responsabilidad social en la atención de pacientes y comunidades.
+
+
+5.
+Nombre oficial: Nutrición y Dietética
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias de la Salud
+Modalidad disponible: Presencial
+Duración en semestres: 8 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales especializados en promoción de la salud y alimentación saludable, capaces de evaluar, diagnosticar e intervenir en el estado nutricional de personas y comunidades, aplicando conocimientos en nutrición y producción de alimentos seguros.
+
+
+6.
+Nombre oficial: Medicina
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias de la Salud
+Modalidad disponible: Presencial
+Duración en semestres: 12 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para promover la salud, prevenir, diagnosticar y tratar enfermedades, integrándose éticamente a los servicios de salud y aplicando investigación científica, gestión sanitaria y atención médica integral en distintos contextos.
+
+
+7.
+Nombre oficial: Computación
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capaces de diseñar e implementar soluciones computacionales innovadoras, desarrollando software, infraestructura tecnológica, seguridad informática y sistemas inteligentes aplicados a diversos sectores productivos.
+
+
+8.
+Nombre oficial: Bioquímica y Farmacia
+Tipo: Carrera de grado
+Área de conocimiento: Ciencias Exactas y Naturales
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para gestionar servicios farmacéuticos y laboratorios clínicos, garantizando el acceso a medicamentos seguros y aplicando normativas técnicas, investigación e innovación orientadas al cuidado de la salud.
+
+
+9.
+Nombre oficial: Telecomunicaciones
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capaces de diseñar e implementar sistemas y redes de telecomunicaciones, aplicando tecnologías, normativas técnicas y criterios de sostenibilidad, eficiencia y rentabilidad en proyectos de transmisión de información.
+
+
+10.
+Nombre oficial: Ingeniería Ambiental
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para identificar y tratar problemas de contaminación, diseñando proyectos sostenibles y aplicando tecnologías ambientales para el manejo de residuos, energías alternativas y planificación territorial.
+
+
+11.
+Nombre oficial: Ingeniería Industrial
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capaces de optimizar procesos industriales y sistemas de producción, aplicando fundamentos científicos y tecnológicos para mejorar la productividad, calidad, innovación y uso eficiente de recursos.
+
+
+12.
+Nombre oficial: Ingeniería Civil
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 9 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para diseñar y ejecutar proyectos de ingeniería civil seguros y sostenibles, aplicando normas técnicas, gestión de obras y soluciones innovadoras para optimizar recursos y atender necesidades de la sociedad.
+
+
+13.
+Nombre oficial: Arquitectura
+Tipo: Carrera de grado
+Área de conocimiento: Ingenierías y Arquitectura
+Modalidad disponible: Presencial
+Duración en semestres: 10 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales capaces de diseñar proyectos urbanos y arquitectónicos sostenibles, aplicando soluciones constructivas innovadoras que contribuyan al desarrollo de las ciudades y al mejoramiento de la calidad de vida.
+
+
+14.
+Nombre oficial: Maestría en Inteligencia Artificial Aplicada
+Tipo: Posgrado
+Área de conocimiento: Tecnologías de la Información y la Comunicación
+Modalidad disponible: En línea
+Duración en semestres: 2 semestres
+Sedes activas: Modalidad virtual
+Descripción breve del perfil de egreso:
+Profesionales altamente especializados en inteligencia artificial, capaces de diseñar, implementar y evaluar sistemas inteligentes para resolver problemas reales mediante análisis de datos, machine learning y deep learning, con enfoque ético y orientado a la transformación digital.
+
+15.
+Nombre oficial: Especialización en Sistemas de Información con mención en Blockchain y Arquitectura en la Nube
+Tipo: Posgrado
+Área de conocimiento: Tecnologías de la Información y la Comunicación
+Modalidad disponible: En línea
+Duración en semestres: 1 semestre
+Sedes activas: Modalidad virtual
+Descripción breve del perfil de egreso:
+Profesionales especializados en blockchain y arquitectura en la nube, capaces de diseñar e implementar soluciones digitales seguras y escalables mediante tecnologías como DevOps, Kubernetes, contenedores y servicios cloud.
+
+16.
+Nombre oficial: Doctorado en Química
+Tipo: Posgrado
+Área de conocimiento: Ciencias Naturales, Matemáticas y Estadística
+Modalidad disponible: Presencial
+Duración en semestres: 8 semestres
+Sedes activas: Loja
+Descripción breve del perfil de egreso:
+Profesionales e investigadores especializados en química, capaces de desarrollar investigación científica avanzada, aplicar métodos y técnicas innovadoras y proponer soluciones a problemas ambientales, industriales y tecnológicos desde un enfoque ético y científico.
+
+17.
+Nombre oficial: Seguridad en manipulación, almacenamiento y transporte de explosivos
+Tipo: Educación continua
+Área de conocimiento: Seguridad Industrial y Minería
+Modalidad disponible: En línea
+Duración en semestres: No aplica
+Sedes activas: Cobertura nacional y modalidad virtual
+Descripción breve del perfil de egreso:
+Participantes capacitados para aplicar técnicas seguras de manipulación, almacenamiento y transporte de explosivos, cumpliendo normativas legales y protocolos de seguridad en sectores mineros, construcción y actividades industriales.
+
+18.
+Nombre oficial: Operadores de Maquinaria Pesada para Licencia Tipo G
+Tipo: Educación continua
+Área de conocimiento: Transporte y Operación de Maquinaria Pesada
+Modalidad disponible: Semipresencial
+Duración en semestres: No aplica
+Sedes activas: Cobertura nacional y prácticas presenciales en Loja
+Descripción breve del perfil de egreso:
+Profesionales capacitados para operar maquinaria pesada y equipo caminero aplicando normas de seguridad, mantenimiento responsable y procedimientos técnicos avalados por la ANT y la UTPL.
